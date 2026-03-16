@@ -1,9 +1,6 @@
 # 📦 ระบบบันทึกการยืม-คืนอุปกรณ์ (Borrow Equip App)
 
-## 📝 ชื่อโจทย์
-
-ระบบจัดการการยืม-คืนอุปกรณ์
-(Borrow & Return Equipment Management System)
+## 📝 ระบบจัดการการยืม-คืนอุปกรณ์ (Borrow & Return Equipment Management System)
 
 ---
 
