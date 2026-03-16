@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.borrow_equipment_app"
+    namespace = "com.tanapat.borrow_equipment_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

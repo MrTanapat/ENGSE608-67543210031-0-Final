@@ -1,4 +1,4 @@
-package com.example.borrow_equipment_app
+package com.tanapat.borrow_equipment_app
 
 import io.flutter.embedding.android.FlutterActivity
 
